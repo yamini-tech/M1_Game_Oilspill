@@ -13,5 +13,5 @@
 
 2. LOW LEVEL REQUIREMENTS:
   * Movement of the pac-man 
-  * Ghosts
+  
   
