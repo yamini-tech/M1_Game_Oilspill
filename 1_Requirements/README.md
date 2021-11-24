@@ -1,4 +1,4 @@
-#REQUIREMENTS:
+# REQUIREMENTS:
 <h3>Intoduction</h3>
 
 The pac-man game is played by single player.The player moves in a the screen.When the path is covered fully then level gets completed.
@@ -8,26 +8,26 @@ The pac-man game is played by single player.The player moves in a the screen.Whe
 * Simple interface
 * Nice graphics
 
-#Research :
+# Research :
 Pacman Game Features and Benefits
   It is often used as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence that deals with the searching of game trees. It is straightforward to write a computer program to play pac man perfectly.
 
-##Benefits
+## Benefits
 Pac man Game offers few benefits.Here are just few of them:
 
-###Good Sportsmanship
+### Good Sportsmanship
 Like any game,pacman also teaches a person to accept the failure as well as steps to acheive success.
 
-###Prepare for more complex games
+### Prepare for more complex games
 It prepares a person for more complex games because they have to choose the optimal way to take up before they proceed.
 
-###Mannerism
+### Mannerism
 It helps one to learn how to follow the optimal ways and take turns.
 
-###Concentration 
+### Concentration 
 It can help to improve a person's concentration as well as strategic thinking
 
-##State of art 
+## State of art 
 EARLIER 
 * We have not included several elements to make this simple game more enjoyable.
 * Only one user can play at a time.
@@ -55,11 +55,11 @@ HOW
 * If the path is empty the the level gets completed.
 
 
-##SWOT Analysis
+## SWOT Analysis
 ![SWOT Image](![Screenshot (94)](https://user-images.githubusercontent.com/94158943/143260032-f243ee89-8899-48fb-8864-a4198f7bf0eb.png)
 )
 
-##DETAIL REQUIREMENTS
+## DETAIL REQUIREMENTS
 HLR
 
 |HLR           |DESCRIPTION        |
